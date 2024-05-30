@@ -29,7 +29,7 @@
     <DebugType>full</DebugType>
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
-    <OutputPath>..\..\..\..\..\..\..\BIZ2022\TEST\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\..\..\BIZ2022\TEST\</OutputPath>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DocumentationFile>
     </DocumentationFile>
